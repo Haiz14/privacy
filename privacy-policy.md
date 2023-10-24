@@ -1,19 +1,16 @@
 Policy for Sea of Thieves Academy Discord Server and SOTA.DS Website
 Last Updated: [oct,2023]
 
-
 1. Introduction
 
-
-Welcome to Sea of Thieves Academy Discord Server and the SOTA.DS website. We are committed to protecting your privacy and handling your personal information with care. This privacy policy aims to inform you about how we collect, use, and share your personal information.
+  Welcome to Sea of Thieves Academy Discord Server and the SOTA.DS website. We are committed to protecting your privacy and handling your personal information with care. This privacy policy aims to inform you about how we collect, use, and share your personal information.
 
 2. Information We Collect
 
-
-We collect various types of information through our Discord server and website, including but not limited to:
-Discord Information: Your Discord username and user ID when you join our Discord server.
-- Website Information: When you visit our website, we may collect non-personal data, including IP address, browser information, and usage statistics. We do not collect any personal information directly through our website.
-- Third-Party APIs: We use APIs provided by third-party services, including Xbox.com, Discord.com, Weebly.com, and Yoti.com. The information collected through these APIs is subject to the privacy policies of the respective providers.
+  We collect various types of information through our Discord server and website, including but not limited to:
+  - Discord Information: Your Discord username and user ID when you join our Discord server.
+  - Website Information: When you visit our website, we may collect non-personal data, including IP address, browser information, and usage statistics. We do not collect any personal information directly through our website.
+  - Third-Party APIs: We use APIs provided by third-party services, including Xbox.com, Discord.com, Weebly.com, and Yoti.com. The information collected through these APIs is subject to the privacy policies of the respective providers.
 
 3. How We Use Your Information
 
